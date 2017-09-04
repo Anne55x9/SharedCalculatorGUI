@@ -12,14 +12,6 @@ namespace SharedCalculatorGUI
         {
             var cal = new SharedCalculator.Lommeregner();
 
-            //Console.WriteLine("Indtast en værdi:");
-
-            
-
-            ////Console.WriteLine(cal.addition(2,3));
-
-            //Console.ReadLine();
-
 
             //use for the string operation choice
             int operation = 0;
